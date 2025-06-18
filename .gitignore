@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.DS_Store
+__blobstorage__/69eb73f1-93b8-4181-9150-bbe0737a712c
+.gitignore
+.DS_Store
+__azurite_db_table__.json
+__azurite_db_queue_extent__.json
+__azurite_db_queue__.json
+__azurite_db_blob_extent__.json
+__azurite_db_blob__.json
+.gitignore
